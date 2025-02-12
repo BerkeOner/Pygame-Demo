@@ -9,3 +9,6 @@ I made my own pygame menu system to make game menus easier. They are in the SPRI
 1. BUTTON & TEXT class, so you can add buttons anywhere on the screen and color them easily.
 2. MENU class, you can store buttons and texts in MENU classes.
 3. DIALOG class, so you can display dialogs with just a single line of code.
+
+# Warning
+I don't own and don't know where fonts and sound effects are from. Use them responsibly. Other than that, all sprites made by me, you can use them freely.
