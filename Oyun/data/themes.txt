@@ -1,0 +1,4 @@
+theme-1 bought: True
+theme-2 bought: False
+theme-3 bought: False
+theme-4 bought: False
